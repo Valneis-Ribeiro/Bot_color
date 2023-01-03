@@ -1,0 +1,85 @@
+METODOLOGIA DE LEITURA (PROGRAMA)
+
+#############################################################################
+
+acabamento com 2 palavras e cor com 2 palavras: index = 10
+
+EX:
+
+LIMP FACIL                      BRANCO GELO
+FOSC DURA                       BRANCO GELO
+PROT ANTIBAC                    BRANCO GELO
+BRI SEDA                        BRANCO GELO
+ 
+acabamento com 2 palavras e cor com 3 palavras: index = 11
+
+EX:
+
+LIMP FACIL                      AZUL DEL REI
+FOSC DURA                       AZUL DEL REI
+PROT ANTIBAC                    AZUL DEL REI
+BRI SEDA                        AZUL DEL REI
+
+
+
+
+acabamento com 2 palavras e cor com 1 palavras: index = 9
+
+EX:
+
+LIMP FACIL                      PALHA
+FOSC DURA                       PALHA
+PROT ANTIBAC                    PALHA
+BRI SEDA                        PALHA
+
+
+
+
+###############################################################################
+
+acabamento com 3 palavras e cor com 3 palavras: index = 12
+
+EX:
+
+DEL REN MT                       AZUL DEL REI
+
+acabamento com 3 palavras e cor com 1 palavras: index = 9
+EX:
+
+DEL REN MT                       PALHA
+
+
+acabamento com 3 palavras e cor com 2 palavras: index = 11
+
+
+DEL REN MT                       ALTO BONITO
+
+
+
+
+#########################################################################
+
+acabamento com 1 palavras e cor com 3 palavras: index = 
+
+EX:
+
+DIATEX
+
+acabamento com 1 palavras e cor com 1 palavras: index = 
+EX:
+
+DIATEX
+
+acabamento com 1 palavras e cor com 2 palavras: index = 
+
+DIATEX
+
+
+#########################################################################
+
+
+
+
+
+
+
