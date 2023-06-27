@@ -1,2 +1,2 @@
-# Bot_pigmentador_de_tintas
+# Bot color
 Robô que pigmentar automaticamente
